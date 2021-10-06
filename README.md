@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EvSniper
 - 👀 I’m interested in Robotics, AI, Game Development, Traveling, Games.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning creating websites and how to host them.
+- 💞️ I’m looking to collaborate on nothing atm.
+- 📫 How to reach me scottnburch@gmail.com
 
 <!---
 EvSniper/EvSniper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
